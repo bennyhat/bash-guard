@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'file_discard'
 gem 'listen'
-gem 'terminal-notifier'
+gem 'null-logger'
 gem 'pry'
+gem 'terminal-notifier'
